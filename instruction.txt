@@ -6823,4 +6823,4 @@
 6823. Shift the 1629th copy of the triangle right 6.64 and up 6.32.
 6824. Shift the 1630th copy of the triangle right 6.8 and up 6.08.
 6825. Shift the 1631st copy of the triangle right 6.96 and up 5.84.
-6827. Reflect image over the y-axis.
+6826. Reflect image over the y-axis.
